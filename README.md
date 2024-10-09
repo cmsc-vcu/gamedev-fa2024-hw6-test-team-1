@@ -22,7 +22,7 @@ this game different from others?  What is the goal for playing?
 
 ## Files in the repository
 
-./unity/ - this folder contains the Unity game files associated with this game.
+./Space Elevator/ - this folder contains the Unity game files associated with this game.
 
 ./website/ - this folder contains files associated with the *gh-pages* created for this game.
 
