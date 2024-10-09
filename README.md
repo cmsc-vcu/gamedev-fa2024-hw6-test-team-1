@@ -1,8 +1,6 @@
 # Elevator Wipeout - Sidecars and PBRs - Fall 2024
 
-Elevator Wipeout is a save-the-world game where the player does all they can to prevent bad guys from destroying a space elevator.  If the bad guys win, the earth
-is destroyed in a spectacular, slow-motion extravaganza.
-
+Elevator Wipeout is a save-the-world game where the player makes the best of a bad situation. During the construction of a massive arc to escape the doomed Earth, the space elevator lifting all of Earth's precious cargo is attacked. As a humble space elevator maintenance crew member, armed only with an industrial sprayer of NanoJuice(tm), do all you can to save the world from a catastrophic demise! 
 ## Authors
 
 - John Leonard (jdleonard@vcu.edu)
