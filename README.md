@@ -8,8 +8,8 @@ Elevator Wipeout is a save-the-world game where the player makes the best of a b
 
 ## Game Description
 
-Provide more details of the game.  Discuss any unique game play features.  Why is
-this game different from others?  What is the goal for playing?
+Provide more details of the game.  Discuss any unique game play features. 
+Why is this game different from others?  What is the goal for playing?
 
 ## Important Links
 
